@@ -1,4 +1,4 @@
-# DigiZest-1.0 Hackathon - Smart Home Automation (Face Recognition Module)
+# DigiZest 1.0 Hackathon - Smart Home Automation (Face Recognition Module)
 
 This repository contains a crucial component of our **Smart Home Automation System**, developed during the **DigiZest 1.0 Hackathon**. This module focuses on **real-time face recognition** to identify known individuals and automate home appliances based on their preferences.
 
